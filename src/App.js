@@ -10,6 +10,7 @@ function App() {
         <p>
           ALLAH is the greatest, most merciful and most beneficient..!
         </p>
+        <p>Testing automation with Visual studio code without manual push and pull commands..!</p>
         <p>First ReactApp by Hayat Mohammad Niazi</p>
         <a
           className="App-link"
